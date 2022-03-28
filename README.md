@@ -31,5 +31,6 @@
 </a>
 
 ## TODO
+- In this actual version the song is not playing right, because it's within a folder that has being ignored by default on the gitignore file, so I removed this feature. Please, feel free to make it work again if you want to.
 
 - When I started this project I was wondering about the possibility to implement some kind of a CRUD within it, which could allow us to use a login system, as it is already shown on the first form. Once the user create a registry, it should be used to let the user directly into a previous or even saved list of products. 
