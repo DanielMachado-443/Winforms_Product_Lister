@@ -5,29 +5,7 @@ namespace WindowsFormsApp3.Entities
     {
         public double Price { get; set; }
         public string Name { get; set; }
-        public int Quantity { get; set; }
-
-        public Product(int quantity)
-        {
-            Quantity = quantity;
-        }
-
-        public Product(double price)
-        {
-            Price = price;
-        }
-
-        public Product(string name)
-        {
-            Name = name;
-        }
-
-        public Product()
-        {
-            Price = 0.0;
-            Name = "None";
-            Quantity = 0;
-        }
+        public int Quantity { get; set; }       
 
         public Product(string name, double price, int quantity)
         {
