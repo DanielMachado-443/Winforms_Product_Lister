@@ -27,12 +27,7 @@ namespace WindowsFormsApp3
         List<Product> LProduct = new List<Product>();        
         string PName = "";
         double PPrice = 0.0;
-        int PQuantity1 = 0;
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            bigSoundPlayer.Play();            
-        }
+        int PQuantity1 = 0;        
 
         private void button1_Click(object sender, EventArgs e) // i get this object kkkkkk Everything is a subset of object
         {

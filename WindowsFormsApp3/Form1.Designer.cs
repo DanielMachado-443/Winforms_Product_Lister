@@ -260,8 +260,7 @@
             this.Controls.Add(this.Text1);
             this.Controls.Add(this.Text2);
             this.Controls.Add(this.Password);
-            this.Controls.Add(this.UserName);            
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Controls.Add(this.UserName);                        
             this.ResumeLayout(false);
             this.PerformLayout();
 
