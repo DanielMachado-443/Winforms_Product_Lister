@@ -14,11 +14,11 @@
 
 ## How to start
 
-- In order to start the game, you must have Visual Studio installed with Windows Forms package
+- In order to start seeing the code, you'll need to have installed the Visual Studio with C# Windows Forms packages
 
 ## About the code
 
-- It's a pretty simple winforms code in which we only have an entity class called Product, that contains all the products data to be used in the forms, as you can see below.
+- It's a pretty simple winforms code in which we only have an entity class called Product, that contains all the products data to be used in the forms, as you can see below
  
 <a title="Winforms Product Lister">
   <img src="https://i.imgur.com/qfor7v1.png"/>
